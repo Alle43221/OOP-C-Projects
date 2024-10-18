@@ -1,0 +1,5 @@
+C:/Users/Ale/CLionProjects/gaming-store/cmake-build-debug/CMakeFiles/gaming_store.dir
+C:/Users/Ale/CLionProjects/gaming-store/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ale/CLionProjects/gaming-store/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ale/CLionProjects/gaming-store/cmake-build-debug/CMakeFiles/gaming_store_autogen_timestamp_deps.dir
+C:/Users/Ale/CLionProjects/gaming-store/cmake-build-debug/CMakeFiles/gaming_store_autogen.dir

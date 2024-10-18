@@ -1,0 +1,10 @@
+God of War Ragnarok,70,PlayStation,18
+God of War,50,PlayStation,18
+Ghost of Tsushima,60,PlayStation,18
+Horizon Forbidden West,70,Nintendo,16
+Horizon Zero Dawn,70,PlayStation,16
+The Last of Us Part 1,70,PlayStation,7
+The Last of Us Part 2,70,PlayStation,18
+Red Dead Redemption 2,60,PC,18
+Control,40,XBOX,18
+Grand Theft Auto V,40,PC,18
